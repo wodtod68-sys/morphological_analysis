@@ -1,8 +1,6 @@
 # morphological_analysis
 # Korean POS Corpus — Morpheme & Index Term Extractor
 
-# 형태소 분석 기반 색인어 추출 스크립트
-
 형태소 분석 결과(POS tagged corpus)로부터 형태소/품사를 추출하고,
 색인어(단일어·복합어)를 생성하는 두 개의 Python 스크립트입니다.
 
